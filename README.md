@@ -1,0 +1,2 @@
+# toshi-coin
+app depliy
